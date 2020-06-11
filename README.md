@@ -1,6 +1,6 @@
 ## Speak Number Guessing Game
 
-Number guessing game where you speak your guess into the microphone using the speech recognition API
+[Demo](https://alvar91.github.io/speak-number-guess-html-css-js/) Number guessing game where you speak your guess into the microphone using the speech recognition API
 
 ## Project Specifications
 
